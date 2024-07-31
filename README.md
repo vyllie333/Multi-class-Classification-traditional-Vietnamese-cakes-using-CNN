@@ -11,5 +11,6 @@
 
 **Classification using Convolutional Neural Network**
 * Model
-* Result
->  ![Image](chèn link)
+>  ![Image](https://github.com/vyllie333/Classify-traditional-Vietnamese-cakes-using-CNN/blob/main/modelcnn.jpg)
+* Method
+>  ![Image](https://github.com/vyllie333/Classify-traditional-Vietnamese-cakes-using-CNN/blob/main/method.jpg )
