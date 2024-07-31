@@ -11,7 +11,7 @@
 **Proprocessing:** Use available package in cv2
 
 **Classification using Convolutional Neural Network**
-* Model: 3 layers Conv, 1 layer FC, Output is multi class (5 label) 
+* Model: 3 layers Conv, 1 layer FC, Output is multi class (5 labels) 
 >  ![Image](https://github.com/vyllie333/Classify-traditional-Vietnamese-cakes-using-CNN/blob/main/modelcnn.jpg)
 * Method
 >  ![Image](https://github.com/vyllie333/Classify-traditional-Vietnamese-cakes-using-CNN/blob/main/method.jpg )
