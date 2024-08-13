@@ -8,8 +8,8 @@
 **Author**: Vy Vyllie
 
 ## Content
-**Dataset:** 
-
+**Dataset**
+The dataset is organized as follows:
 ```text
 Main-folder/
 ├── BanhVN
