@@ -8,6 +8,25 @@
 **Author**: Vy Vyllie
 
 ## Content
+**Dataset:** 
+- **Classes:**
+  - BanhVN
+  - BanhCay
+  - BanhChung
+  - BanhGiayGio
+  - BanhPia
+  - BanhTaiHeo
+  - BanhTieu
+
+- **Example Images:**
+  - Banh_cay_1.jpg
+  - Banh_cay_10.png
+  - Banh_cay_100.png
+  - Banh_cay_101.png
+  - Banh_cay_bosung_1.png
+  - Banh_cay_bosung_10.png
+  - ...
+
 **Proprocessing:** Use available package in cv2
 
 **Classification using Convolutional Neural Network**
