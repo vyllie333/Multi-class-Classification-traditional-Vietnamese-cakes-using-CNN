@@ -9,7 +9,9 @@
 
 ## Content
 **Dataset:** 
-> Main-folder/
+
+```text
+Main-folder/
 ├── BanhVN
 │   ├── BanhCay
 │   │   ├── Banh_cay_1.jpg
@@ -37,6 +39,7 @@
     ├── BanhPia
     ├── BanhTaiHeo
     └── BanhTieu
+```
 
 **Proprocessing:** Use available package in cv2
 
