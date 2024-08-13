@@ -9,23 +9,34 @@
 
 ## Content
 **Dataset:** 
-- **Classes:**
-  - BanhVN
-  - BanhCay
-  - BanhChung
-  - BanhGiayGio
-  - BanhPia
-  - BanhTaiHeo
-  - BanhTieu
-
-- **Example Images:**
-  - Banh_cay_1.jpg
-  - Banh_cay_10.png
-  - Banh_cay_100.png
-  - Banh_cay_101.png
-  - Banh_cay_bosung_1.png
-  - Banh_cay_bosung_10.png
-  - ...
+> Main-folder/
+├── BanhVN
+│   ├── BanhCay
+│   │   ├── Banh_cay_1.jpg
+│   │   ├── Banh_cay_10.png
+│   │   ├── Banh_cay_100.png
+│   │   ├── ...
+│   │   ├── Banh_cay_139.png
+│   │   ├── Banh_cay_14.png
+│   │   ├── ...
+│   │   ├── Banh_cay_9.png
+│   ├── Banh_cay_bosung_1.png
+│   ├── Banh_cay_bosung_10.png
+│   ├── Banh_cay_bosung_11.png
+│   ├── ...
+│   └── Banh_cay_bosung_20.png
+├── BanhChung
+├── BanhGiayGio
+├── BanhPia
+├── BanhTaiHeo
+├── BanhTieu
+└── data_agumentation
+    ├── BanhCay
+    ├── BanhChung
+    ├── BanhGiayGio
+    ├── BanhPia
+    ├── BanhTaiHeo
+    └── BanhTieu
 
 **Proprocessing:** Use available package in cv2
 
